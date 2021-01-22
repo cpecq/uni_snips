@@ -1,6 +1,8 @@
 #Pattern 2 - State Pattern:
 
-"State os a behavioural design pattern that lets an object alter its behaviour when its intenal state changes. It appears as if the pbject has changed its class."
+The state pattern is a behavioural design pattern that lets an object alter its behaviour when its intenal state changes. It appears as if the pbject has changed its class.
+
+
 The State checking procedure that is modelled by this deisgn pattern was logically applicable to the codebase within the stage class of the game.
 
 
